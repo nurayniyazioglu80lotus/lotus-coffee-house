@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "kicker": "LOTUS COFFEE HOUSE",
+    "title": "Galeri",
+    "text": "Lotus Coffee House’un sıcak atmosferini, kahve sunumlarını ve huzurlu detaylarını keşfedin. Aşağıdaki görseller arasında kayarak gezebilirsiniz."
+  },
+  "images": [
+    {
+      "id": "gallery-1",
+      "src": "/images/gallery/kahve-1.jpg",
+      "alt": "Lotus kahve sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/gallery/kahve-2.jpg",
+      "alt": "Lotus latte sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-3",
+      "src": "/images/gallery/kahve-3.jpg",
+      "alt": "Lotus matcha sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-4",
+      "src": "/images/gallery/kahve-4.jpg",
+      "alt": "Lotus filtre kahve sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-5",
+      "src": "/images/gallery/mekan-1.jpg",
+      "alt": "Lotus iç mekan",
+      "active": true
+    },
+    {
+      "id": "gallery-6",
+      "src": "/images/gallery/mekan-2.jpg",
+      "alt": "Lotus masa alanı",
+      "active": true
+    },
+    {
+      "id": "gallery-7",
+      "src": "/images/gallery/mekan-3.jpg",
+      "alt": "Lotus oturma alanı",
+      "active": true
+    },
+    {
+      "id": "gallery-8",
+      "src": "/images/gallery/mekan-4.jpg",
+      "alt": "Lotus genel görünüm",
+      "active": true
+    },
+    {
+      "id": "gallery-9",
+      "src": "/images/gallery/tatli-1.jpg",
+      "alt": "Lotus tatlı sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-10",
+      "src": "/images/gallery/tatli-2.jpg",
+      "alt": "Lotus pasta sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-11",
+      "src": "/images/gallery/tatli-3.jpg",
+      "alt": "Lotus brownie sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-12",
+      "src": "/images/gallery/tatli-5.jpg",
+      "alt": "Lotus cookie sunumu",
+      "active": true
+    },
+    {
+      "id": "gallery-1774717322737",
+      "src": "/uploads/gallery/dscf0144-1774716862212.jpg",
+      "alt": "üçü bir arada",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "categories": [
+    {
+      "name": "Kahveler",
+      "image": "/uploads/menu/kahveler.jpg",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": "140₺",
+          "description": "Yoğun aromalı, kısa içimli klasik espresso."
+        },
+        {
+          "name": "Espresso Macchiato",
+          "price": "150₺",
+          "description": "Espressonun üzerine az miktarda süt köpüğü eklenmiş dengeli içim."
+        },
+        {
+          "name": "Americano",
+          "price": "150₺",
+          "description": "Espressonun sıcak su ile yumuşatılmış, daha uzun içimli hali."
+        },
+        {
+          "name": "Cortado",
+          "price": "160₺",
+          "description": "Espresso ve sütün dengeli birleşimiyle güçlü ama yumuşak içim."
+        },
+        {
+          "name": "Cappuccino / Flat White",
+          "price": "170₺",
+          "description": "Süt dokusunun öne çıktığı, espresso bazlı yumuşak ve kremamsı içim."
+        },
+        {
+          "name": "Latte",
+          "price": "180₺",
+          "description": "Bol süt ve espresso ile hazırlanan yumuşak içimli klasik kahve."
+        },
+        {
+          "name": "Caramel Latte",
+          "price": "190₺",
+          "description": "Karamel aromasıyla zenginleşen tatlı ve yumuşak latte."
+        },
+        {
+          "name": "Mocha",
+          "price": "190₺",
+          "description": "Çikolata ve kahvenin birlikte öne çıktığı yoğun lezzet."
+        },
+        {
+          "name": "White Mocha",
+          "price": "190₺",
+          "description": "Beyaz çikolata notalarıyla daha tatlı ve kremamsı mocha."
+        },
+        {
+          "name": "Vanilya Latte",
+          "price": "190₺",
+          "description": "Vanilya aromasıyla yumuşatılmış dengeli latte."
+        },
+        {
+          "name": "Bal Tarçın Latte",
+          "price": "190₺",
+          "description": "Bal ve tarçının sıcak aromasıyla öne çıkan özel latte."
+        },
+        {
+          "name": "Toffeenut Latte",
+          "price": "195₺",
+          "description": "Fındıksı ve karamelimsi toffee notalarıyla zengin içim."
+        },
+        {
+          "name": "Spanish Latte",
+          "price": "200₺",
+          "description": "Daha tatlı ve yoğun süt dokusuna sahip özel latte yorumu."
+        },
+        {
+          "name": "Nutella Nut Latte",
+          "price": "200₺",
+          "description": "Fındık ve çikolata aromalarının baskın olduğu tatlı içim latte."
+        },
+        {
+          "name": "Lotus Latte",
+          "price": "200₺",
+          "description": "Lotus aromasıyla tatlı, bisküvimsi ve karakterli latte."
+        }
+      ]
+    },
+    {
+      "name": "Demleme Kahveler",
+      "image": "/uploads/menu/demleme-kahveler.jpg",
+      "items": [
+        {
+          "name": "Filtre Kahve",
+          "price": "150₺",
+          "description": "Temiz içimli, dengeli aromalı klasik filtre kahve."
+        },
+        {
+          "name": "V60",
+          "price": "180₺",
+          "description": "Özel demleme yöntemiyle daha berrak ve aromatik kahve deneyimi."
+        },
+        {
+          "name": "French Press",
+          "price": "150₺",
+          "description": "Daha gövdeli ve doğal yağları hissedilen demleme kahve."
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Ritüeller",
+      "image": "/uploads/menu/sicak-ritueller.jpg",
+      "items": [
+        {
+          "name": "Çay",
+          "price": "60₺",
+          "description": "Geleneksel sıcak demleme çay."
+        },
+        {
+          "name": "Türk Kahvesi",
+          "price": "110₺",
+          "description": "Köpüğü ve yoğun aromasıyla geleneksel Türk kahvesi."
+        },
+        {
+          "name": "Sıcak Çikolata",
+          "price": "150₺",
+          "description": "Yoğun kakao lezzetiyle sıcak ve yumuşak içim."
+        },
+        {
+          "name": "Salep",
+          "price": "150₺",
+          "description": "Kış aylarında öne çıkan tarçınla uyumlu sıcak içecek."
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": "150₺",
+          "description": "Baharatlı çay ve süt uyumuyla zengin aroma."
+        },
+        {
+          "name": "Bitki Çayları",
+          "price": "130₺",
+          "description": "Günün ritmine göre yumuşak ve ferah bitkisel içim."
+        }
+      ]
+    },
+    {
+      "name": "Matcha",
+      "image": "/uploads/menu/matcha.jpg",
+      "items": [
+        {
+          "name": "Matcha Latte",
+          "price": "250₺",
+          "description": "Matcha çayının süt ile birleştiği yumuşak ama karakterli içim."
+        },
+        {
+          "name": "Strawberry Matcha Latte",
+          "price": "260₺",
+          "description": "Çilek dokunuşuyla daha canlı ve tatlı matcha deneyimi."
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "image": "/uploads/menu/soguk-kahveler.jpg",
+      "items": [
+        {
+          "name": "Cold Brew",
+          "price": "210₺",
+          "description": "Uzun demleme ile hazırlanan yumuşak ve serinletici kahve."
+        },
+        {
+          "name": "Freddo Espresso",
+          "price": "160₺",
+          "description": "Buzlu ve sert karakterli espresso bazlı ferah içim."
+        },
+        {
+          "name": "Iced Americano",
+          "price": "160₺",
+          "description": "Buzlu, ferah ve dengeli espresso içimi."
+        },
+        {
+          "name": "Iced Latte",
+          "price": "190₺",
+          "description": "Soğuk süt ve espresso ile hafif, ferah latte deneyimi."
+        },
+        {
+          "name": "Iced Mocha",
+          "price": "200₺",
+          "description": "Çikolata ve kahvenin soğuk yorumuyla yoğun lezzet."
+        },
+        {
+          "name": "Iced White Mocha",
+          "price": "200₺",
+          "description": "Beyaz çikolata aromasıyla daha tatlı soğuk mocha."
+        },
+        {
+          "name": "Iced Vanilya Latte",
+          "price": "200₺",
+          "description": "Vanilya dokunuşuyla ferah ve yumuşak soğuk latte."
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": "200₺",
+          "description": "Karamel aromalı tatlı ve serinletici latte."
+        },
+        {
+          "name": "Iced Toffeenut Latte",
+          "price": "210₺",
+          "description": "Toffee ve fındıksı notalarla öne çıkan soğuk latte."
+        }
+      ]
+    },
+    {
+      "name": "Serinletici",
+      "image": "/uploads/menu/serinletici.jpg",
+      "items": [
+        {
+          "name": "Cool Lime",
+          "price": "170₺",
+          "description": "Limon ve ferahlık hissiyle canlı içim."
+        },
+        {
+          "name": "Very Berry Hibiscus",
+          "price": "180₺",
+          "description": "Meyvemsi ve hafif ekşi notalarıyla ferahlatıcı içecek."
+        },
+        {
+          "name": "Lemonade",
+          "price": "160₺",
+          "description": "Klasik limonata, serin ve taze içim."
+        },
+        {
+          "name": "Strawberry Lemonade",
+          "price": "170₺",
+          "description": "Çilek ve limon uyumuyla meyvemsi ferahlık."
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "image": "/uploads/menu/tatlilar.jpg",
+      "items": [
+        {
+          "name": "Marlenka",
+          "price": "180₺",
+          "description": "Katmanlı yapısı ve yoğun lezzetiyle özel tatlı."
+        },
+        {
+          "name": "Havuçlu kek",
+          "price": "170₺",
+          "description": "Baharatlı ve yumuşak dokulu ev sıcaklığında kek."
+        },
+        {
+          "name": "Nata",
+          "price": "155₺",
+          "description": "Kıtır hamur ve yumuşak krema dengesiyle hafif tatlı."
+        },
+        {
+          "name": "Cookie",
+          "price": "145₺",
+          "description": "Dışı hafif kıtır, içi yumuşak kurabiye."
+        },
+        {
+          "name": "Brownie",
+          "price": "165₺",
+          "description": "Yoğun kakaolu ve nemli dokulu klasik brownie."
+        },
+        {
+          "name": "Üçgen brownie",
+          "price": "175₺",
+          "description": "Daha yoğun sunumlu, dilim formunda brownie."
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Bitkisel süt",
+      "price": "45₺"
+    },
+    {
+      "name": "Laktozsuz süt",
+      "price": "20₺"
+    }
+  ],
+  "note": "Fiyatlarımıza KDV dahildir. Son güncelleme 18.03.2026"
+}

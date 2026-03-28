@@ -1,0 +1,31 @@
+{
+  "sectionTitle": "Öne Çıkan Lezzetler",
+  "buttonText": "Tüm Menüyü Gör",
+  "buttonLink": "/menu",
+  "items": [
+    {
+      "id": "featured-1",
+      "title": "Latte",
+      "price": "55₺",
+      "image": "/images/products/latte.jpg",
+      "description": "Yumuşak içimli, dengeli aromasıyla günün keyifli molası.",
+      "active": true
+    },
+    {
+      "id": "featured-2",
+      "title": "Çilekli Cheesecake",
+      "price": "65₺",
+      "image": "/images/products/cheesecake.jpg",
+      "description": "Meyvemsi dokunuşu ve hafif yapısıyla öne çıkan tatlı lezzet.",
+      "active": true
+    },
+    {
+      "id": "featured-3",
+      "title": "Çikolatalı Brownie",
+      "price": "50₺",
+      "image": "/images/products/brownie.jpg",
+      "description": "Yoğun kakao tadı sevenler için sıcak kahveye güçlü eşlikçi.",
+      "active": true
+    }
+  ]
+}

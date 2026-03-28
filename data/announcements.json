@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "kicker": "LOTUS COFFEE HOUSE",
+    "title": "Duyurular",
+    "description": "Etkinlikler, özel günler, atölyeler ve Lotus’tan yeni gelişmeler burada."
+  },
+  "items": [
+    {
+      "id": "duyuru-1",
+      "title": "Lotus Coffee House Açıldı",
+      "date": "2026-03-20",
+      "image": "/uploads/duyurular/qr-1774630730241.jpeg",
+      "excerpt": "Yeni mekanımızda sizleri ağırlamaktan mutluluk duyuyoruz.",
+      "content": "Lotus Coffee House artık kapılarını açtı. Kahve, sohbet, sanat ve paylaşım dolu atmosferimizde sizleri bekliyoruz.",
+      "active": true
+    },
+    {
+      "id": "duyuru-2",
+      "title": "Yeni Atölye Buluşmaları Başlıyor",
+      "date": "2026-04-05",
+      "image": "/uploads/duyurular/whatsapp-image-2026-03-19-at-222734-1774630668296.jpeg",
+      "excerpt": "Sanat ve paylaşım odaklı yeni buluşmalar için hazırlıklarımız başladı.",
+      "content": "Yakında Lotus Coffee House bünyesinde yeni atölye ve sohbet buluşmalarına başlayacağız. Detaylar çok yakında paylaşılacak.",
+      "active": true
+    }
+  ]
+}

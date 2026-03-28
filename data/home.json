@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "text": "Lotus Coffee House’ta zaman yavaşlar, kahve sadece bir içecek değil; huzurlu atmosfer, doğal dokular ve samimi anlarla birleşen küçük bir ritüele dönüşür.",
+    "image": "/images/hero/lotus-hero-main.jpg"
+  },
+  "experience": {
+    "title": "Sadece bir kahve değil,\nbir deneyim",
+    "paragraph1": "Lotus Coffee House, rahatlatıcı ve huzurlu atmosferiyle şehir hayatının telaşından kısa bir kaçış noktasıdır.",
+    "paragraph2": "Bizim için kahve sadece bir içecek değil, aynı zamanda bir ritüeldir. Doğal ahşap dokunuşlarla huzur veren ve samimi bir kış ortamında, yavaşlayıp kahvenizin keyfini çıkarın.",
+    "buttonText": "Hakkımızda",
+    "image": "/images/gallery/lotus-experience.jpg"
+  },
+  "signature": {
+    "title": "Her fincan bir mola.\nher mola bir farkındalık.",
+    "text": "Lotus Coffee House’ta kahven sadece bir içecek değil, aynı zamanda bir farkındalık anıdır.",
+    "image": "/images/gallery/lotus-signature-banner.jpg"
+  },
+  "footer": {
+    "brandTitle": "Lotus Coffee House",
+    "text": "Kahve ve huzurun buluştuğu özel bir yaşam alanı.",
+    "actions": [
+      {
+        "id": 1,
+        "label": "Menüyü İncele",
+        "href": "/menu",
+        "style": "soft",
+        "active": true
+      },
+      {
+        "id": 2,
+        "label": "WhatsApp",
+        "href": "https://wa.me/905432469962",
+        "style": "gold",
+        "active": true
+      },
+      {
+        "id": 3,
+        "label": "Yol Tarifi",
+        "href": "https://maps.app.goo.gl/gPi5X3CYQUGpyKpw7",
+        "style": "soft",
+        "active": true
+      }
+    ],
+    "copyright": "© 2026 Lotus Coffee House"
+  }
+}

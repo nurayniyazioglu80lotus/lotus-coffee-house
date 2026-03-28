@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "kicker": "LOTUS COFFEE HOUSE",
+    "title": "Hakkımızda",
+    "texts": [
+      "Lotus Coffee House, yalnızca kahve içilen bir yer değil; üretimin, paylaşımın ve farkındalığın buluştuğu sıcak bir yaşam alanıdır.",
+      "Kahve, sohbet, sanat ve üretimin bir araya geldiği bu atmosferde; her fincanın ardındaki emeği, her buluşmanın ardındaki sıcaklığı ve her anın taşıdığı anlamı görünür kılmak istiyoruz."
+    ],
+    "images": [
+      "/images/about/about-1.jpg",
+      "/images/about/about-2.jpg",
+      "/images/about/about-3.jpg",
+      "/images/about/about-4.jpg",
+      "/uploads/slider/whatsapp-image-2026-03-24-at-155134-1774710629440.jpeg"
+    ]
+  },
+  "purpose": {
+    "title": "Amacımız",
+    "paragraphs": [
+      "Lotus Coffee House’u yalnızca kahve içilen bir mekân olarak değil, insanın kendine biraz daha yaklaştığı, yavaşladığı ve nefes aldığı bir alan olarak hayal ettik. Bizim için kahve; toprağa düşen bir tohumla başlayan, emekle büyüyen, ellerden geçen ve sonunda bir fincanda insana ulaşan uzun bir yolculuktur.",
+      "Bu yolculuğun içinde doğa vardır, zaman vardır, sabır vardır, emek vardır. Bir kahve çekirdeğinin geçirdiği dönüşüm, aslında insana da bir şey söyler: Her şey zamanla olgunlaşır, işlenir, derinleşir ve anlam kazanır. Biz, kahvenin bu hikâyesini yalnızca tat olarak değil, bir hissiyat olarak da sunmak istiyoruz.",
+      "Lotus Coffee House’ta kahve ile sanatı bir araya getirme isteğimiz tam da buradan doğuyor. Çünkü sanat da kahve gibi insanı durdurur, düşündürür, hissettirir ve iç dünyasında yeni kapılar açar. Bazen bir fincan kahve, bazen bir sohbet, bazen bir atölye, bazen de sessizce okunan bir kitap; insanın kendine doğru küçük ama değerli bir yolculuğa çıkmasına vesile olabilir.",
+      "Amacımız; insanların burada sadece bir şeyler tüketmesi değil, aynı zamanda bir atmosferin parçası olmasıdır. Üreten, paylaşan, hisseden, dinlenen ve ilham alan insanları aynı çatı altında buluşturmak istiyoruz. Lotus, bu yüzden sadece bir coffee house değil; sıcaklığın, emeğin, estetiğin ve anlamın buluştuğu bir yaşam alanıdır."
+    ]
+  },
+  "features": {
+    "title": "Lotus Ayrıcalıkları",
+    "description": "Lotus Coffee House’ta kahve, sanat ve paylaşım aynı atmosferde buluşur. Burada her detay, insanın yavaşlamasına ve kendine yaklaşmasına alan açar.",
+    "items": [
+      {
+        "icon": "☕",
+        "title": "Kahve",
+        "text": "Topraktan fincana uzanan emeği ve özeni hissettiren kahve deneyimi."
+      },
+      {
+        "icon": "🎨",
+        "title": "Sanat",
+        "text": "Üretmenin, ifade etmenin ve estetikle bağ kurmanın sıcak atmosferi."
+      },
+      {
+        "icon": "📚",
+        "title": "Kitap",
+        "text": "Sessizce derinleşmek ve kendinle kalmak için özel alan."
+      },
+      {
+        "icon": "🤝",
+        "title": "Paylaşım",
+        "text": "Sohbetin ve dostluğun buluştuğu samimi atmosfer..."
+      }
+    ]
+  }
+}

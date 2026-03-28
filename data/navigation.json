@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "label": "Ana Sayfa",
+    "href": "/",
+    "active": true
+  },
+  {
+    "id": 2,
+    "label": "Menü",
+    "href": "/menu",
+    "active": true
+  },
+  {
+    "id": 3,
+    "label": "Hakkımızda",
+    "href": "/about",
+    "active": true
+  },
+  {
+    "id": 4,
+    "label": "Galeri",
+    "href": "/gallery",
+    "active": true
+  },
+  {
+    "id": 5,
+    "label": "Duyurular",
+    "href": "/announcements",
+    "active": true
+  },
+  {
+    "id": 6,
+    "label": "İletişim",
+    "href": "/contact",
+    "active": true
+  }
+]

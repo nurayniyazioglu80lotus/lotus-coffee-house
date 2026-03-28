@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "label": "Menüyü İncele",
+    "href": "/menu",
+    "active": true,
+    "style": "highlight"
+  },
+  {
+    "id": 2,
+    "label": "WhatsApp",
+    "href": "https://wa.me/905432469962",
+    "active": true,
+    "style": "highlight"
+  },
+  {
+    "id": 3,
+    "label": "Yol Tarifi Al",
+    "href": "https://maps.app.goo.gl/gPi5X3CYQUGpyKpw7",
+    "active": true,
+    "style": "highlight"
+  }
+]

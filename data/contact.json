@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "kicker": "LOTUS COFFEE HOUSE",
+    "title": "İletişim",
+    "text": "Lotus Coffee House’a ulaşmak, konumumuzu görmek ya da bizimle iletişime geçmek için aşağıdaki bilgileri kullanabilirsiniz. Sizi sıcak bir kahve ve huzurlu bir atmosferle karşılamaktan mutluluk duyarız."
+  },
+  "map": {
+    "link": "https://share.google/4FhUfeIlTfL4zi8Qx",
+    "image": "/images/contact/contact-map.jpg"
+  },
+  "info": {
+    "addressLabel": "Adres",
+    "address": "Altınkum, 1127 Sokak 6B, 10390 Edremit / Balıkesir",
+    "phoneLabel": "Telefon",
+    "phone": "0543 246 99 62",
+    "phoneHref": "Tel:05432469962",
+    "whatsappLabel": "WhatsApp",
+    "whatsappText": "0543 246 99 62",
+    "whatsappHref": "https://wa.me/905432469962",
+    "hoursLabel": "Çalışma Saatleri",
+    "hours": "09:00 - 21:00",
+    "instagramLabel": "Instagram",
+    "instagramText": "@lotus.coffeehouse",
+    "instagramHref": "https://instagram.com/lotus.coffeehouse",
+    "instagramQr": "/images/contact/instagram-qr.png"
+  },
+  "actions": {
+    "callText": "Hemen Ara",
+    "callHref": "Tel:05432469962",
+    "whatsappText": "WhatsApp’tan Yaz",
+    "whatsappHref": "https://wa.me/905432469962"
+  },
+  "invite": {
+    "title": "Bir kahve molası için sizi bekliyoruz.",
+    "text": "Lotus Coffee House’ta sakin bir atmosfer, özenli kahveler ve samimi bir karşılama sizi bekliyor."
+  }
+}
