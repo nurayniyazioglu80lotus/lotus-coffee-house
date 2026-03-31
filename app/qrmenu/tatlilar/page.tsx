@@ -4,37 +4,37 @@ import Link from "next/link";
 const products = [
   {
     name: "Marlenka",
-    price: "260₺",
+    price: "240₺",
     description: "Katmanlı yapısı ve yoğun lezzetiyle özel tatlı.",
     image: "/uploads/qrmenu/marlenka.jpg",
   },
   {
     name: "Havuçlu Kek",
-    price: "260₺",
+    price: "240₺",
     description: "Baharatlı ve yumuşak dokulu ev sıcaklığında kek.",
     image: "/uploads/qrmenu/havuclu-kek.jpg",
   },
   {
     name: "Nata",
-    price: "160₺",
+    price: "140₺",
     description: "Kıtır hamur ve yumuşak krema dengesiyle hafif tatlı.",
     image: "/uploads/qrmenu/nata.jpg",
   },
   {
     name: "Cookie",
-    price: "160₺",
+    price: "140₺",
     description: "Dışı hafif kıtır, içi yumuşak kurabiye.",
     image: "/uploads/qrmenu/cookie.jpg",
   },
   {
     name: "Brownie",
-    price: "240₺",
+    price: "220₺",
     description: "Yoğun kakaolu ve nemli dokulu klasik brownie.",
     image: "/uploads/qrmenu/brownie.jpg",
   },
   {
     name: "Üçgen Brownie",
-    price: "240₺",
+    price: "220₺",
     description: "Daha yoğun sunumlu, dilim formunda brownie.",
     image: "/uploads/qrmenu/ucgen-brownie.jpg",
   },
