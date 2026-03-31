@@ -237,32 +237,32 @@
       "items": [
         {
           "name": "Marlenka",
-          "price": "180₺",
+          "price": "240₺",
           "description": "Katmanlı yapısı ve yoğun lezzetiyle özel tatlı."
         },
         {
-          "name": "Havuçlu kek",
-          "price": "170₺",
+          "name": "Havuçlu Kek",
+          "price": "240₺",
           "description": "Baharatlı ve yumuşak dokulu ev sıcaklığında kek."
         },
         {
           "name": "Nata",
-          "price": "155₺",
+          "price": "140₺",
           "description": "Kıtır hamur ve yumuşak krema dengesiyle hafif tatlı."
         },
         {
           "name": "Cookie",
-          "price": "145₺",
+          "price": "140₺",
           "description": "Dışı hafif kıtır, içi yumuşak kurabiye."
         },
         {
           "name": "Brownie",
-          "price": "165₺",
+          "price": "220₺",
           "description": "Yoğun kakaolu ve nemli dokulu klasik brownie."
         },
         {
-          "name": "Üçgen brownie",
-          "price": "175₺",
+          "name": "Üçgen Brownie",
+          "price": "220₺",
           "description": "Daha yoğun sunumlu, dilim formunda brownie."
         }
       ]
@@ -278,5 +278,5 @@
       "price": "20₺"
     }
   ],
-  "note": "Fiyatlarımıza KDV dahildir. Son güncelleme 18.03.2026"
+  "note": "Fiyatlarımıza KDV dahildir. Son güncelleme 30.03.2026"
 }

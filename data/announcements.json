@@ -2,25 +2,43 @@
   "hero": {
     "kicker": "LOTUS COFFEE HOUSE",
     "title": "Duyurular",
-    "description": "Etkinlikler, özel günler, atölyeler ve Lotus’tan yeni gelişmeler burada."
+    "description": "Etkinlikler, kampanyalar ve Lotus’tan yeni gelişmeler burada."
   },
   "items": [
     {
       "id": "duyuru-1",
-      "title": "Lotus Coffee House Açıldı",
+      "title": "Lotus Coffee House Kapılarını Açtı",
       "date": "2026-03-20",
-      "image": "/uploads/duyurular/qr-1774630730241.jpeg",
-      "excerpt": "Yeni mekanımızda sizleri ağırlamaktan mutluluk duyuyoruz.",
-      "content": "Lotus Coffee House artık kapılarını açtı. Kahve, sohbet, sanat ve paylaşım dolu atmosferimizde sizleri bekliyoruz.",
+      "image": "/uploads/duyurular/acilis-banner.jpg",
+      "excerpt": "Yeni atmosferimiz ve keyifli ortamımızla sizleri bekliyoruz.",
+      "content": "Lotus Coffee House artık kapılarını açtı. Zengin kahve çeşitlerimiz, sıcak çaylarımız ve tatlı lezzetlerimizle sizleri huzurlu bir mola vermeye davet ediyoruz. Samimi ortamımızda kahve, sohbet ve keyif dolu anlar sizleri bekliyor.",
       "active": true
     },
     {
       "id": "duyuru-2",
-      "title": "Yeni Atölye Buluşmaları Başlıyor",
+      "title": "Zengin Menü ve Sosyal Etkinlikler",
+      "date": "2026-04-01",
+      "image": "/uploads/duyurular/zengin-menu-duyuru.jpg",
+      "excerpt": "Zengin kahve ve tatlı menümüzün yanında sosyal etkinliklerimizle sizleri bekliyoruz.",
+      "content": "Lotus Coffee House’ta sadece kahve değil; doğum günü kutlamaları, kitap okuma günleri, farkındalık sohbetleri ve sosyal etkinliklerle dolu keyifli bir atmosfer sunuyoruz.",
+      "active": true
+    },
+    {
+      "id": "duyuru-3",
+      "title": "Merwe Nail & Beauty Müşterilerine %10 İndirim",
       "date": "2026-04-05",
-      "image": "/uploads/duyurular/whatsapp-image-2026-03-19-at-222734-1774630668296.jpeg",
-      "excerpt": "Sanat ve paylaşım odaklı yeni buluşmalar için hazırlıklarımız başladı.",
-      "content": "Yakında Lotus Coffee House bünyesinde yeni atölye ve sohbet buluşmalarına başlayacağız. Detaylar çok yakında paylaşılacak.",
+      "image": "/uploads/duyurular/merwe-kampanya.jpg",
+      "excerpt": "Merwe Nail & Beauty müşterilerine özel kahve ve tatlılarda %10 indirim fırsatı.",
+      "content": "Lotus Coffee House ve Merwe Nail & Beauty işbirliğiyle sizlere özel bir fırsat sunuyoruz. Merwe Nail & Beauty müşterileri, Lotus Coffee House’ta kahve ve tatlı ürünlerinde %10 indirim avantajından yararlanabilir. Güzelliğinize keyifli bir mola eklemek için sizleri Lotus Coffee House’a bekliyoruz.Kampanyamız Nisan Ayı boyunca geçerlidir...",
+      "active": true
+    },
+    {
+      "id": "duyuru-4",
+      "title": "Doğum Günü ve Özel Gün Kutlamaları",
+      "date": "2026-04-02",
+      "image": "/uploads/duyurular/dogum-gunu-kutlama.jpg",
+      "excerpt": "Doğum günü ve özel günlerinizi Lotus Coffee House’un sıcak atmosferinde kutlayabilirsiniz.",
+      "content": "Lotus Coffee House’ta doğum günü ve özel gün organizasyonlarınızı keyifli bir atmosferde gerçekleştirebilirsiniz. Rezervasyon için bizimle iletişime geçebilirsiniz.",
       "active": true
     }
   ]

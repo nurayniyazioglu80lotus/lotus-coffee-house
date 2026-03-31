@@ -1,0 +1,88 @@
+[
+  {
+    "category": "Kahveler",
+    "items": [
+      { "name": "Espresso", "price": "140" },
+      { "name": "Espresso Macchiato", "price": "150" },
+      { "name": "Americano", "price": "150" },
+      { "name": "Cortado", "price": "160" },
+      { "name": "Cappuccino / Flat White", "price": "170" },
+      { "name": "Latte", "price": "180" },
+      { "name": "Caramel Latte", "price": "190" },
+      { "name": "Mocha", "price": "190" },
+      { "name": "White Mocha", "price": "190" },
+      { "name": "Vanilya Latte", "price": "190" },
+      { "name": "Bal Tarçın Latte", "price": "190" },
+      { "name": "Toffeenut Latte", "price": "195" },
+      { "name": "Spanish Latte", "price": "200" },
+      { "name": "Nutella Nut Latte", "price": "200" },
+      { "name": "Lotus Latte", "price": "200" }
+    ]
+  },
+
+  {
+    "category": "Demleme Kahveler",
+    "items": [
+      { "name": "Filtre Kahve", "price": "150" },
+      { "name": "V60", "price": "180" },
+      { "name": "French Press", "price": "150" }
+    ]
+  },
+
+  {
+    "category": "Sıcak Ritüeller",
+    "items": [
+      { "name": "Çay", "price": "60" },
+      { "name": "Türk Kahvesi", "price": "110" },
+      { "name": "Sıcak Çikolata", "price": "150" },
+      { "name": "Salep", "price": "150" },
+      { "name": "Chai Tea Latte", "price": "150" },
+      { "name": "Bitki Çayları", "price": "130" }
+    ]
+  },
+
+  {
+    "category": "Matcha",
+    "items": [
+      { "name": "Matcha Latte", "price": "250" },
+      { "name": "Strawberry Matcha Latte", "price": "260" }
+    ]
+  },
+
+  {
+    "category": "Soğuk Kahveler",
+    "items": [
+      { "name": "Cold Brew", "price": "210" },
+      { "name": "Freddo Espresso", "price": "160" },
+      { "name": "Iced Americano", "price": "160" },
+      { "name": "Iced Latte", "price": "190" },
+      { "name": "Iced Mocha", "price": "200" },
+      { "name": "Iced White Mocha", "price": "200" },
+      { "name": "Iced Vanilya Latte", "price": "200" },
+      { "name": "Iced Caramel Latte", "price": "200" },
+      { "name": "Iced Toffeenut Latte", "price": "210" }
+    ]
+  },
+
+  {
+    "category": "Serinleticiler",
+    "items": [
+      { "name": "Cool Lime", "price": "170" },
+      { "name": "Very Berry Hibiscus", "price": "180" },
+      { "name": "Lemonade", "price": "160" },
+      { "name": "Strawberry Lemonade", "price": "170" }
+    ]
+  },
+
+  {
+    "category": "Tatlılar",
+    "items": [
+      { "name": "Marlenka", "price": "260" },
+      { "name": "Havuçlu Kek", "price": "260" },
+      { "name": "Nata", "price": "160" },
+      { "name": "Cookie", "price": "160" },
+      { "name": "Brownie", "price": "240" },
+      { "name": "Üçgen Brownie", "price": "240" }
+    ]
+  }
+]
